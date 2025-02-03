@@ -3,9 +3,7 @@ function isSameType(value1, value2) {
 	if(value1 === value2){
 		return true;
 	}
-	else{ 
-		return false;
-	}
+	return false;
 }
 
 // do not change the code below.
